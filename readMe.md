@@ -1,5 +1,5 @@
 Purpose of application:
-This application demonstrates the Java capabilities to help visualize math and can be used for various students, universities, research project, companies etc.
+This application demonstrates the Java capabilities to help visualize math and can be used for various students, universities etc.
 
 Flow of application is as follows:
 1. Application takes the input argument for the config xml file.
